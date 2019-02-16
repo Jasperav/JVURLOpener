@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVURLOpener_Tests' do
+  pod 'JVURLOpener', :path => '../'
+  
+  
+end

@@ -1,0 +1,6 @@
+framework module JVURLOpener {
+  umbrella header "JVURLOpener-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_JVURLOpener_Tests {
+  umbrella header "Pods-JVURLOpener_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
